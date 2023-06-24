@@ -1,0 +1,15 @@
+
+{
+  "kind": "collectionType",
+  "collectionName": "recurly_clients",
+  "info": {
+    "singularName": "recurly-client",
+    "pluralName": "recurly-clients",
+    "displayName": "recurlyClient"
+  },
+  "options": {
+    "draftAndPublish": true,
+    "comment": ""
+  },
+  "attributes": {}
+}
